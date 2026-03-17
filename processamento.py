@@ -14,7 +14,6 @@ def sistema(alunos):
 
         media = soma / len(notas)
 
-
         if media < 7:
             recuperacao.append((nome, media))
 
