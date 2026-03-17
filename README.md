@@ -13,7 +13,6 @@ Código voltado para a resolução e tratamento de problemas relacionados ao des
 - Python – Linguagem de programação utilizada no desenvolvimento do sistema.
 - Trello – Organização das tarefas utilizando metodologias ágeis.
 - GitHub – Controle de versão do projeto.
-- Kanban – Método de organização do fluxo de trabalho.
 
 ### Requisitos Não Funcionais
 
@@ -25,7 +24,6 @@ Código voltado para a resolução e tratamento de problemas relacionados ao des
 - Realizar o cálculo das médias dos alunos.
 - Identificar alunos em situação de recuperação e alunos com melhor desempenho.
 - Estruturar o sistema de forma modular.
-- Gerar um relatório final em arquivo `.txt`.
 
 
 
